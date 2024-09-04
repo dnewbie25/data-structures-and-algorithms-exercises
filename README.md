@@ -40,5 +40,6 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 1 Sep 2024 | Encode and Decode Strings | Medium (LintCode) | [6-leet.js](./leetcode/6-leet/6-leet.js) | [6-leet.md](./leetcode/6-leet/6-leet.md) | 1 h 20 min | Pass | [https://shorturl.at/ub8ZB](https://shorturl.at/ub8ZB)  | 21 |
 | 2 Sep 2024 | Reversed Strings	 | 8 Kyu | [15-kata.js](./katas/15-kata/15-kata.js) | [15-kata.md](./katas/15-kata/15-kata.md) | 10 min | Pass | [https://shorturl.at/M6Ya8](https://shorturl.at/M6Ya8)  | 22 |
 | 3 Sep 2024 | Friend or Foe?	 | 7 Kyu | [16-kata.js](./katas/16-kata/16-kata.js) | [16-kata.md](./katas/16-kata/16-kata.md) | 5 min | Pass | [https://shorturl.at/xJGd8](https://shorturl.at/xJGd8)  | 23 |
+| 3 Sep 2024 | Plus or Minus	 | 6 Kyu | [17-kata.js](./katas/17-kata/17-kata.js) | [17-kata.md](./katas/17-kata/17-kata.md) | 1 h 30 min | Fail | [https://shorturl.at/ob1nO](https://shorturl.at/ob1nO)  | 24 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
