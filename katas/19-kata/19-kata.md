@@ -91,6 +91,6 @@ function digital_root(n) {
 
 ## Notes about the interesting one:
 
-This solution is really impressive. It is really short and it took me a while to figure out how it worked, but I had to read this wikipedia article, [Digital Root](https://en.wikipedia.org/wiki/Digital_root). It uses the Congruence Formula to solve it.
+This solution is really impressive. It is really short and it took me a while to figure out how it worked, but I had to read this Wikipedia article first, [Digital Root](https://en.wikipedia.org/wiki/Digital_root). It uses the Congruence Formula to solve it.
 
 ---
