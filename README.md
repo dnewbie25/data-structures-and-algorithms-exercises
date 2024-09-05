@@ -41,5 +41,6 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 2 Sep 2024 | Reversed Strings	 | 8 Kyu | [15-kata.js](./katas/15-kata/15-kata.js) | [15-kata.md](./katas/15-kata/15-kata.md) | 10 min | Pass | [https://shorturl.at/M6Ya8](https://shorturl.at/M6Ya8)  | 22 |
 | 3 Sep 2024 | Friend or Foe?	 | 7 Kyu | [16-kata.js](./katas/16-kata/16-kata.js) | [16-kata.md](./katas/16-kata/16-kata.md) | 5 min | Pass | [https://shorturl.at/xJGd8](https://shorturl.at/xJGd8)  | 23 |
 | 3 Sep 2024 | Plus or Minus	 | 6 Kyu | [17-kata.js](./katas/17-kata/17-kata.js) | [17-kata.md](./katas/17-kata/17-kata.md) | 1 h 30 min | Fail | [https://shorturl.at/ob1nO](https://shorturl.at/ob1nO)  | 24 |
+| 4 Sep 2024 | Disemvowel Trolls	 | 7 Kyu | [18-kata.js](./katas/18-kata/18-kata.js) | [18-kata.md](./katas/18-kata/18-kata.md) | 10 min | Pass | [https://shorturl.at/sXFzk](https://shorturl.at/sXFzk)  | 25 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
