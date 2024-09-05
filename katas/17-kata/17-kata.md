@@ -135,15 +135,16 @@ def plus_or_minus(variables, test):
     # makes a combinatorics of the integers taking n-elements (equal to the length of the "variables" parameter)
     combination_numbers = product(range(-9,10),repeat=length)
     candidate = []
-    # uses a set to verify that all items and different and their sum equal the "test" value
+    # uses a set to verify that all items are different and their sum equal the "test" value
     for i in combination_numbers:
         if sum(i)==test and len(i)==len(set(i)):
             candidate = i
             break
-    # puts the corresponding symbol based on the value of the number in the "candidate" list
+    # puts the corresponding symbol based on the value of the number from the "candidate" list
     letters_value = dict()
     for i in range(len(candidate)):
         letters_value[candidate[i]] = variables[i]  
+    # creates an empty string, based on the value put + or - before the corresponding letter from "variables"
     expression = ''
     for key,value in letters_value.items():
         if key >= 0:
