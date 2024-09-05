@@ -69,12 +69,12 @@ function digitalRoot(n) {
 
 ```js
 
-Time: 801ms Passed: 2Failed: 0
+Time: 797ms Passed: 2Failed: 0
 Test Results:
 Basic tests
 Should pass basic tests
 Should pass random tests
-Completed in 11ms
+Completed in 12ms
 You have passed all of the tests! :)
 
 ```

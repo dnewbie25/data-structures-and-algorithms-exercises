@@ -1,6 +1,5 @@
 function digitalRoot(n) {
   const nStr = n.toString()
-  let numbers = []
   let currentNum = nStr
   while(currentNum.length > 1){
     console.log(currentNum);
