@@ -45,5 +45,6 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 5 Sep 2024 | Sum of Digits / Digital Root	 | 6 Kyu | [19-kata.js](./katas/19-kata/19-kata.js) | [19-kata.md](./katas/19-kata/19-kata.md) | 30 min | Pass | [https://shorturl.at/mnjPF](https://shorturl.at/mnjPF)  | 26 |
 | 6 Sep 2024 | Clothes size number converter	 | 7 Kyu | [20-kata.js](./katas/20-kata/20-kata.js) | [20-kata.md](./katas/20-kata/20-kata.md) | 45 min | Pass | [https://shorturl.at/MKDzM](https://shorturl.at/MKDzM)  | 27 |
 | 7 Sep 2024 | You're a square!	 | 7 Kyu | [21-kata.js](./katas/21-kata/21-kata.js) | [21-kata.md](./katas/21-kata/21-kata.md) | 25 min | Pass | [https://shorturl.at/CKbso](https://shorturl.at/CKbso)  | 28 |
+| 8 Sep 2024 | Regex validate PIN code	 | 7 Kyu | [22-kata.js](./katas/22-kata/22-kata.js) | [22-kata.md](./katas/22-kata/22-kata.md) | 15 min | Pass | [https://shorturl.at/gFo4w](https://shorturl.at/gFo4w)  | 29 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)

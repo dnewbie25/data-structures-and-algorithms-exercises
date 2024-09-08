@@ -55,7 +55,7 @@ describe("isSquare", function(){
 
 ## Notes
 
-Notes here
+No special notes for this project. It was just having a good comprehension of the perfect square definition.
 
 ## My solution with comments:
 
