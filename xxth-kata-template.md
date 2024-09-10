@@ -9,8 +9,6 @@ by *[usernameHere](https://www.codewars.com/users/username)*
 
 ## Task
 
-### kataNameHere
-
 Explanation here
 
 ```
