@@ -47,5 +47,6 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 7 Sep 2024 | You're a square!	 | 7 Kyu | [21-kata.js](./katas/21-kata/21-kata.js) | [21-kata.md](./katas/21-kata/21-kata.md) | 25 min | Pass | [https://shorturl.at/CKbso](https://shorturl.at/CKbso)  | 27 |
 | 8 Sep 2024 | Regex validate PIN code	 | 7 Kyu | [22-kata.js](./katas/22-kata/22-kata.js) | [22-kata.md](./katas/22-kata/22-kata.md) | 15 min | Pass | [https://shorturl.at/gFo4w](https://shorturl.at/gFo4w)  | 28 |
 | 9 Sep 2024 | Product of Array Except Self | Medium (LeetCode) | [7-leet.js](./leetcode/7-leet/7-leet.js) | [7-leet.md](./leetcode/7-leet/7-leet.md) | 1 h | Pass | [https://shorturl.at/IEEpL](https://shorturl.at/IEEpL)  | 29 |
+| 10 Sep 2024 | Remove Element | Easy (LeetCode) | [8-leet.js](./leetcode/8-leet/8-leet.js) | [8-leet.md](./leetcode/8-leet/8-leet.md) | 20 min | Pass | [https://shorturl.at/MN4FT](https://shorturl.at/MN4FT)  | 30 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
