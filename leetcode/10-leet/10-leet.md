@@ -56,6 +56,8 @@ This one was a good challenge to solve with the help of [regex101](https://regex
 
 ## My solution with comments:
 
+#### Solution 1
+
 ```js
 var lengthOfLastWord = function(s) {
   // create a RegEx that matches any group of characters (ignore whitespaces)
@@ -67,8 +69,24 @@ var lengthOfLastWord = function(s) {
 
 ```
 
+#### Solution 2
+
+Improved runtime to 41 ms
+
+```js
+var lengthOfLastWord = function(s) {
+  // trims the string to remove outer whitespaces, then converts it to an array separating by internal whispaces
+  const arr = s.trim().split(' ')
+  // no matter the string, the last word will alway be free of undesired whitespaces. Return its length
+  return arr[arr.length-1].length
+};
+
+```
+
 
 ## Results
+
+#### Solution 1
 
 ```js
 
@@ -83,6 +101,35 @@ Memory
 MB
 Beats
 77.05%
+
+Case 1:
+Output = 5
+Expected = 5
+
+Case 2:
+Output = 4
+Expected = 4
+
+Case 3:
+Output = 6
+Expected = 6
+```
+
+#### Solution 2
+
+```js
+
+Runtime
+41
+ms
+Beats
+95.47%
+
+Memory
+48.92
+MB
+Beats
+41.08%
 
 Case 1:
 Output = 5
@@ -121,6 +168,6 @@ var lengthOfLastWord = function(s) {
 
 ## Notes about the interesting one:
 
-Interestingly, RegEx uses more resources. In this case, even though the code is larger and has more conditions, it runs faster than mine, although I would argue that mine can be a bit more easy to read.
+Interestingly, RegEx uses more resources. In this case, even though the code is larger and has more conditions, it runs faster than my 1st solution, although I would argue that my 1st solution can be easier to read.
 
 ---
