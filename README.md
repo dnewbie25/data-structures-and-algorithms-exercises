@@ -52,5 +52,6 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 12 Sep 2024 | Reverse words	 | 7 Kyu | [23-kata.js](./katas/23-kata/23-kata.js) | [23-kata.md](./katas/23-kata/23-kata.md) | 15 min | Pass | [https://shorturl.at/kbbp6](https://shorturl.at/kbbp6)  | 32 |
 | 13 Sep 2024 | Length of Last Word | Easy (LeetCode) | [10-leet.js](./leetcode/10-leet/10-leet.js) | [10-leet.md](./leetcode/10-leet/10-leet.md) | 10 min | Pass | [https://shorturl.at/ey255](https://shorturl.at/ey255)  | 33 |
 | 14 Sep 2024 | Longest Common Prefix | Easy (LeetCode) | [11-leet.js](./leetcode/11-leet/11-leet.js) | [11-leet.md](./leetcode/11-leet/11-leet.md) | 30 min | Pass | [https://shorturl.at/NDmsr](https://shorturl.at/NDmsr)  | 34 |
+| 15 Sep 2024 | Remove Duplicates from Sorted Array | Easy (LeetCode) | [12-leet.js](./leetcode/12-leet/12-leet.js) | [12-leet.md](./leetcode/12-leet/12-leet.md) | 1 h | Pass | [https://shorturl.at/8DJAc](https://shorturl.at/8DJAc)  | 35 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
