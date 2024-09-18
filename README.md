@@ -56,5 +56,6 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 16 Sep 2024 | Search Insert Position | Easy (LeetCode) | [13-leet.js](./leetcode/13-leet/13-leet.js) | [13-leet.md](./leetcode/13-leet/13-leet.md) | 30 min | Pass | [https://shorturl.at/1pbyv](https://shorturl.at/1pbyv)  | 36 |
 | 17 Sep 2024 | Uncommon Words from Two Sentences | Easy (LeetCode) | [14-leet.js](./leetcode/14-leet/14-leet.js) | [14-leet.md](./leetcode/14-leet/14-leet.md) | 30 min | Pass | [https://shorturl.at/mtCj3](https://shorturl.at/mtCj3)  | 37 |
 | 18 Sep 2024 | Palindrome Number | Easy (LeetCode) | [15-leet.js](./leetcode/15-leet/15-leet.js) | [15-leet.md](./leetcode/15-leet/15-leet.md) | 10 min | Pass | [https://shorturl.at/VPP9c](https://shorturl.at/VPP9c)  | 38 |
+| 19 Sep 2024 | Median of Two Sorted Arrays | Hard (LeetCode) | [16-leet.js](./leetcode/16-leet/16-leet.js) | [16-leet.md](./leetcode/16-leet/16-leet.md) | 30 min | Pass | [https://shorturl.at/rZCr4](https://shorturl.at/rZCr4)  | 39 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
