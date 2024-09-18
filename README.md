@@ -40,7 +40,7 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 1 Sep 2024 | Encode and Decode Strings | Medium (LintCode) | [6-leet.js](./leetcode/6-leet/6-leet.js) | [6-leet.md](./leetcode/6-leet/6-leet.md) | 1 h 20 min | Pass | [https://shorturl.at/ub8ZB](https://shorturl.at/ub8ZB)  | 20 |
 | 2 Sep 2024 | Reversed Strings	 | 8 Kyu | [15-kata.js](./katas/15-kata/15-kata.js) | [15-kata.md](./katas/15-kata/15-kata.md) | 10 min | Pass | [https://shorturl.at/M6Ya8](https://shorturl.at/M6Ya8)  | 21 |
 | 3 Sep 2024 | Friend or Foe?	 | 7 Kyu | [16-kata.js](./katas/16-kata/16-kata.js) | [16-kata.md](./katas/16-kata/16-kata.md) | 5 min | Pass | [https://shorturl.at/xJGd8](https://shorturl.at/xJGd8)  | 22 |
-| 3 Sep 2024 | Plus or Minus	 | 6 Kyu | [17-kata.js](./katas/17-kata/17-kata.js) | [17-kata.md](./katas/17-kata/17-kata.md) | 1 h 30 min | Fail | [https://shorturl.at/ob1nO](https://shorturl.at/ob1nO)  | 23 |
+| 3 Sep 2024 | Plus or Minus	 | 6 Kyu | [17-kata.py](./katas/17-kata/17-kata.py) | [17-kata.md](./katas/17-kata/17-kata.md) | 1 h 30 min | Fail | [https://shorturl.at/ob1nO](https://shorturl.at/ob1nO)  | 23 |
 | 4 Sep 2024 | Disemvowel Trolls	 | 7 Kyu | [18-kata.js](./katas/18-kata/18-kata.js) | [18-kata.md](./katas/18-kata/18-kata.md) | 10 min | Pass | [https://shorturl.at/sXFzk](https://shorturl.at/sXFzk)  | 24 |
 | 5 Sep 2024 | Sum of Digits / Digital Root	 | 6 Kyu | [19-kata.js](./katas/19-kata/19-kata.js) | [19-kata.md](./katas/19-kata/19-kata.md) | 30 min | Pass | [https://shorturl.at/mnjPF](https://shorturl.at/mnjPF)  | 25 |
 | 6 Sep 2024 | Clothes size number converter	 | 7 Kyu | [20-kata.js](./katas/20-kata/20-kata.js) | [20-kata.md](./katas/20-kata/20-kata.md) | 45 min | Pass | [https://shorturl.at/MKDzM](https://shorturl.at/MKDzM)  | 26 |
@@ -57,5 +57,6 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 17 Sep 2024 | Uncommon Words from Two Sentences | Easy (LeetCode) | [14-leet.js](./leetcode/14-leet/14-leet.js) | [14-leet.md](./leetcode/14-leet/14-leet.md) | 30 min | Pass | [https://shorturl.at/mtCj3](https://shorturl.at/mtCj3)  | 37 |
 | 18 Sep 2024 | Palindrome Number | Easy (LeetCode) | [15-leet.py](./leetcode/15-leet/15-leet.py) | [15-leet.md](./leetcode/15-leet/15-leet.md) | 10 min | Pass | [https://shorturl.at/VPP9c](https://shorturl.at/VPP9c)  | 38 |
 | 19 Sep 2024 | Median of Two Sorted Arrays | Hard (LeetCode) | [16-leet.py](./leetcode/16-leet/16-leet.py) | [16-leet.md](./leetcode/16-leet/16-leet.md) | 30 min | Pass | [https://shorturl.at/rZCr4](https://shorturl.at/rZCr4)  | 39 |
+| 20 Sep 2024 | Find the Index of the First Occurrence in a String | Easy (LeetCode) | [17-leet.js](./leetcode/17-leet/17-leet.js) | [17-leet.md](./leetcode/17-leet/17-leet.md) | 10 min | Pass | [https://shorturl.at/g7haA](https://shorturl.at/g7haA)  | 40 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
