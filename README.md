@@ -54,5 +54,6 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 14 Sep 2024 | Longest Common Prefix | Easy (LeetCode) | [11-leet.js](./leetcode/11-leet/11-leet.js) | [11-leet.md](./leetcode/11-leet/11-leet.md) | 30 min | Pass | [https://shorturl.at/NDmsr](https://shorturl.at/NDmsr)  | 34 |
 | 15 Sep 2024 | Remove Duplicates from Sorted Array | Easy (LeetCode) | [12-leet.js](./leetcode/12-leet/12-leet.js) | [12-leet.md](./leetcode/12-leet/12-leet.md) | 1 h | Pass | [https://shorturl.at/8DJAc](https://shorturl.at/8DJAc)  | 35 |
 | 16 Sep 2024 | Search Insert Position | Easy (LeetCode) | [13-leet.js](./leetcode/13-leet/13-leet.js) | [13-leet.md](./leetcode/13-leet/13-leet.md) | 30 min | Pass | [https://shorturl.at/1pbyv](https://shorturl.at/1pbyv)  | 36 |
+| 17 Sep 2024 | Uncommon Words from Two Sentences | Easy (LeetCode) | [14-leet.js](./leetcode/14-leet/14-leet.js) | [14-leet.md](./leetcode/14-leet/14-leet.md) | 30 min | Pass | [https://shorturl.at/mtCj3](https://shorturl.at/mtCj3)  | 37 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
