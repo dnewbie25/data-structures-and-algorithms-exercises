@@ -58,5 +58,7 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 18 Sep 2024 | Palindrome Number | Easy (LeetCode) | [15-leet.py](./leetcode/15-leet/15-leet.py) | [15-leet.md](./leetcode/15-leet/15-leet.md) | 10 min | Pass | [https://shorturl.at/VPP9c](https://shorturl.at/VPP9c)  | 38 |
 | 19 Sep 2024 | Median of Two Sorted Arrays | Hard (LeetCode) | [16-leet.py](./leetcode/16-leet/16-leet.py) | [16-leet.md](./leetcode/16-leet/16-leet.md) | 30 min | Pass | [https://shorturl.at/rZCr4](https://shorturl.at/rZCr4)  | 39 |
 | 20 Sep 2024 | Find the Index of the First Occurrence in a String | Easy (LeetCode) | [17-leet.js](./leetcode/17-leet/17-leet.js) | [17-leet.md](./leetcode/17-leet/17-leet.md) | 10 min | Pass | [https://shorturl.at/g7haA](https://shorturl.at/g7haA)  | 40 |
+| 21 Sep 2024 | Score of a String | Easy (LeetCode) | [18-leet.py](./leetcode/18-leet/18-leet.py) | [18-leet.md](./leetcode/18-leet/18-leet.md) | 20 min | Pass | [https://shorturl.at/JglUT](https://shorturl.at/JglUT)  | 41 |
+| 22 Sep 2024 | Array Prototype Last | Easy (LeetCode) | [19-leet.js](./leetcode/19-leet/19-leet.js) | [19-leet.md](./leetcode/19-leet/19-leet.md) | 15 min | Pass | [https://shorturl.at/C8KwL](https://shorturl.at/C8KwL)  | 42 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
