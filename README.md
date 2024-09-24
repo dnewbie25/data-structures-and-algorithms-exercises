@@ -60,5 +60,6 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 20 Sep 2024 | Find the Index of the First Occurrence in a String | Easy (LeetCode) | [17-leet.js](./leetcode/17-leet/17-leet.js) | [17-leet.md](./leetcode/17-leet/17-leet.md) | 10 min | Pass | [https://shorturl.at/g7haA](https://shorturl.at/g7haA)  | 40 |
 | 21 Sep 2024 | Score of a String | Easy (LeetCode) | [18-leet.py](./leetcode/18-leet/18-leet.py) | [18-leet.md](./leetcode/18-leet/18-leet.md) | 20 min | Pass | [https://shorturl.at/JglUT](https://shorturl.at/JglUT)  | 41 |
 | 22 Sep 2024 | Array Prototype Last | Easy (LeetCode) | [19-leet.js](./leetcode/19-leet/19-leet.js) | [19-leet.md](./leetcode/19-leet/19-leet.md) | 15 min | Pass | [https://shorturl.at/C8KwL](https://shorturl.at/C8KwL)  | 42 |
+| 23 Sep 2024 | Smallest Even Multiple | Easy (LeetCode) | [20-leet.js](./leetcode/20-leet/20-leet.js) | [20-leet.md](./leetcode/20-leet/20-leet.md) | 10 min | Pass | [https://shorturl.at/xuqjJ](https://shorturl.at/xuqjJ)  | 43 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
