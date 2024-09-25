@@ -62,5 +62,6 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 22 Sep 2024 | Array Prototype Last | Easy (LeetCode) | [19-leet.js](./leetcode/19-leet/19-leet.js) | [19-leet.md](./leetcode/19-leet/19-leet.md) | 15 min | Pass | [https://shorturl.at/C8KwL](https://shorturl.at/C8KwL)  | 42 |
 | 23 Sep 2024 | Smallest Even Multiple | Easy (LeetCode) | [20-leet.js](./leetcode/20-leet/20-leet.js) | [20-leet.md](./leetcode/20-leet/20-leet.md) | 10 min | Pass | [https://shorturl.at/xuqjJ](https://shorturl.at/xuqjJ)  | 43 |
 | 24 Sep 2024 | Find the Maximum Achievable Number | Easy (LeetCode) | [21-leet.js](./leetcode/21-leet/21-leet.js) | [21-leet.md](./leetcode/21-leet/21-leet.md) | 20 min | Pass | [https://shorturl.at/zryzn](https://shorturl.at/zryzn)  | 44 |
+| 25 Sep 2024 | Convert the Temperature | Easy (LeetCode) | [22-leet.js](./leetcode/22-leet/22-leet.js) | [22-leet.md](./leetcode/22-leet/22-leet.md) | 10 min | Pass | [https://shorturl.at/9GHD8](https://shorturl.at/9GHD8)  | 45 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
