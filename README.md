@@ -63,5 +63,9 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 23 Sep 2024 | Smallest Even Multiple | Easy (LeetCode) | [20-leet.js](./leetcode/20-leet/20-leet.js) | [20-leet.md](./leetcode/20-leet/20-leet.md) | 10 min | Pass | [https://shorturl.at/xuqjJ](https://shorturl.at/xuqjJ)  | 43 |
 | 24 Sep 2024 | Find the Maximum Achievable Number | Easy (LeetCode) | [21-leet.js](./leetcode/21-leet/21-leet.js) | [21-leet.md](./leetcode/21-leet/21-leet.md) | 20 min | Pass | [https://shorturl.at/zryzn](https://shorturl.at/zryzn)  | 44 |
 | 25 Sep 2024 | Convert the Temperature | Easy (LeetCode) | [22-leet.js](./leetcode/22-leet/22-leet.js) | [22-leet.md](./leetcode/22-leet/22-leet.md) | 10 min | Pass | [https://shorturl.at/9GHD8](https://shorturl.at/9GHD8)  | 45 |
+| 29 Sep 2024 | Concatenation of Array | Easy (LeetCode) | [23-leet.js](./leetcode/23-leet/23-leet.js) | [23-leet.md](./leetcode/23-leet/23-leet.md) | 10 min | Pass | [https://shorturl.at/wKeCv](https://shorturl.at/wKeCv)  | 46 |
+| 30 Sep 2024 | Sqrt(x) | Easy (LeetCode) | [24-leet.js](./leetcode/24-leet/24-leet.js) | [24-leet.md](./leetcode/24-leet/24-leet.md) | 5 min | Pass | [https://shorturl.at/ZdiRT](https://shorturl.at/ZdiRT)  | 47 |
+| 1 Oct 2024 | Add Binary | Easy (LeetCode) | [25-leet.js](./leetcode/25-leet/25-leet.js) | [25-leet.md](./leetcode/25-leet/25-leet.md) | 20 min | Pass | [https://shorturl.at/2EP5m](https://shorturl.at/2EP5m)  | 48 |
+| 2 Oct 2024 | Valid Palindrome | Easy (LeetCode) | [26-leet.js](./leetcode/26-leet/26-leet.js) | [26-leet.md](./leetcode/26-leet/26-leet.md) | 30 min | Pass | [https://shorturl.at/RlLT0](https://shorturl.at/RlLT0)  | 49 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
