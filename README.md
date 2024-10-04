@@ -68,5 +68,6 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 1 Oct 2024 | Add Binary | Easy (LeetCode) | [25-leet.js](./leetcode/25-leet/25-leet.js) | [25-leet.md](./leetcode/25-leet/25-leet.md) | 20 min | Pass | [https://shorturl.at/2EP5m](https://shorturl.at/2EP5m)  | 48 |
 | 2 Oct 2024 | Valid Palindrome | Easy (LeetCode) | [26-leet.js](./leetcode/26-leet/26-leet.js) | [26-leet.md](./leetcode/26-leet/26-leet.md) | 30 min | Pass | [https://shorturl.at/RlLT0](https://shorturl.at/RlLT0)  | 49 |
 | 3 Oct 2024 | Number of Good Pairs | Easy (LeetCode) | [27-leet.js](./leetcode/27-leet/27-leet.js) | [27-leet.md](./leetcode/27-leet/27-leet.md) | 20 min | Pass | [https://shorturl.at/fg9Ld](https://shorturl.at/fg9Ld)  | 50 |
+| 4 Oct 2024 | Allow One Function Call | Easy (LeetCode) | [28-leet.js](./leetcode/28-leet/28-leet.js) | [28-leet.md](./leetcode/28-leet/28-leet.md) | 45 min | Pass | [https://shorturl.at/YERKx](https://shorturl.at/YERKx)  | 51 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
