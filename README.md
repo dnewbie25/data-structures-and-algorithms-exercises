@@ -74,5 +74,6 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 7 Oct 2024 | Array Reduce Transformation | Easy (LeetCode) | [31-leet.js](./leetcode/31-leet/31-leet.js) | [31-leet.md](./leetcode/31-leet/31-leet.md) | 20 min | Pass | [https://shorturl.at/EyEDK](https://shorturl.at/EyEDK)  | 54 |
 | 8 Oct 2024 | Function Composition | Easy (LeetCode) | [32-leet.js](./leetcode/32-leet/32-leet.js) | [32-leet.md](./leetcode/32-leet/32-leet.md) | 20 min | Pass | [https://shorturl.at/Akj3u](https://shorturl.at/Akj3u)  | 55 |
 | 9 Oct 2024 | Add Two Promises | Easy (LeetCode) | [33-leet.js](./leetcode/33-leet/33-leet.js) | [33-leet.md](./leetcode/33-leet/33-leet.md) | 15 min | Pass | [https://shorturl.at/ge11K](https://shorturl.at/ge11K)  | 56 |
+| 10 Oct 2024 | Reverse Integer | Easy (LeetCode) | [34-leet.js](./leetcode/34-leet/34-leet.js) | [34-leet.md](./leetcode/34-leet/34-leet.md) | 25 min | Pass | [https://shorturl.at/8kHGX](https://shorturl.at/8kHGX)  | 57 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
