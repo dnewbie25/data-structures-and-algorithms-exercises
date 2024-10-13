@@ -143,7 +143,7 @@ var cancellable = function(fn, args, t) {
   function cancelFn(){
     clearInterval(interval)
   }
-  // return the cancelFn
+  // return the cancelFn, here we are doing a closure
   return cancelFn
 };
 
@@ -206,6 +206,6 @@ var cancellable = function(fn, args, t) {
 
 ## Notes about the interesting one:
 
-I read his explanation of the problem and then I was able to solve it. The way he explained it was very clear and I proved my solution was correc when I checked that both of our codes are similar. He explained that we needed to create a `closure` to solve it, so I had to do a small research about it.
+I read his explanation of the problem and then I was able to solve it. The way he explained it was very clear and I proved my solution was correct when I checked that both of our codes are similar. He explained that we needed to create a `closure` to solve it, so I had to do a small research about it.
 
 ---
