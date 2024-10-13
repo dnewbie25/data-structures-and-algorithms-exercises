@@ -1,15 +1,11 @@
 # 35th -- Sleep
 
-
-
-
-
-by *[dnewbie25](https://leetcode.com/u/dnewbie25/)*
-
+by _[dnewbie25](https://leetcode.com/u/dnewbie25/)_
 
 ## Task
 
 Given a positive integer millis, write an asynchronous function that sleeps for millis milliseconds. It can resolve any value.
+
 ```js
 Example 1:
 
@@ -27,7 +23,6 @@ Output: 200
 Explanation: It should return a promise that resolves after 200ms.
 ```
 
-
 ## Test Examples
 
 ```js
@@ -40,7 +35,6 @@ millis = 200
 
 ```
 
-
 ## Notes
 
 This one was a good question to practice Promises a bit more.
@@ -50,12 +44,11 @@ This one was a good question to practice Promises a bit more.
 ```js
 async function sleep(millis) {
   // returns a Promise that resolves at the specified time
-    return new Promise((resolve)=>{
-        setTimeout(resolve,millis)
-    })
+  return new Promise((resolve) => {
+    setTimeout(resolve, millis);
+  });
 }
 ```
-
 
 ## Results
 
@@ -87,11 +80,12 @@ Expected
 ```
 
 ## Interesting LeetCode solution:
-> by *[Cosmic_Phantom](https://leetcode.com/problems/sleep/solutions/3525419/promise-examples-dry-run-usecase-o-1-js-ts-beginner-friendly-day11)*
+
+> by _[Cosmic_Phantom](https://leetcode.com/problems/sleep/solutions/3525419/promise-examples-dry-run-usecase-o-1-js-ts-beginner-friendly-day11)_
 
 ```js
 async function sleep(millis) {
-  return new Promise(delayresolve => setTimeout(delayresolve, millis));
+  return new Promise((delayresolve) => setTimeout(delayresolve, millis));
 }
 ```
 
