@@ -76,13 +76,15 @@ size =
 
 ## Notes
 
-Notes here
+The exercise was good. Very funny to solve. The solution turned out to be simpler than I thought.
 
 ## My solution with comments:
 
 ```js
 var chunk = function(arr, size) {
+  // creates an empty array, then pushes sub arrays with the corresponding size
     let newArr = []
+    // i+=size guarantees that the i is at the correct position once the number of elements have been pushed
     for(let i = 0; i<arr.length; i+=size){
         newArr.push(arr.slice(i, i+size))
     }
@@ -107,6 +109,29 @@ MB
 Beats
 62.71%
 
+Case 1
+Output
+[[1],[2],[3],[4],[5]]
+Expected
+[[1],[2],[3],[4],[5]]
+
+Case 2
+Output
+[[1,9,6],[3,2]]
+Expected
+[[1,9,6],[3,2]]
+
+Case 3
+Output
+[[8,5,3,2,6]]
+Expected
+[[8,5,3,2,6]]
+
+Case 4
+Output
+[]
+Expected
+[]
 ```
 
 ## Interesting LeetCode solution:
