@@ -80,5 +80,6 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 13 Oct 2024 | Interval Cancellation | Easy (LeetCode) | [37-leet.js](./leetcode/37-leet/37-leet.js) | [37-leet.md](./leetcode/37-leet/37-leet.md) | 1 h | Pass | [https://shorturl.at/oX8FU](https://shorturl.at/oX8FU)  | 60 |
 | 14 Oct 2024 | Is Object Empty | Easy (LeetCode) | [38-leet.js](./leetcode/38-leet/38-leet.js) | [38-leet.md](./leetcode/38-leet/38-leet.md) | 15 min | Pass | [https://shorturl.at/sAlgp](https://shorturl.at/sAlgp)  | 61 |
 | 15 Oct 2024 | Chunk Array | Easy (LeetCode) | [39-leet.js](./leetcode/39-leet/39-leet.js) | [39-leet.md](./leetcode/39-leet/39-leet.md) | 20 min | Pass | [https://shorturl.at/OxM4G](https://shorturl.at/OxM4G)  | 62 |
+| 16 Oct 2024 | Sort By | Easy (LeetCode) | [40-leet.js](./leetcode/40-leet/40-leet.js) | [40-leet.md](./leetcode/40-leet/40-leet.md) | 20 min | Pass | [https://tinyurl.com/43uyctu8](https://tinyurl.com/43uyctu8)  | 63 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
