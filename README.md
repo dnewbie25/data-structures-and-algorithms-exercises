@@ -84,5 +84,6 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 17 Oct 2024 | Array Wrapper | Easy (LeetCode) | [41-leet.js](./leetcode/41-leet/41-leet.js) | [41-leet.md](./leetcode/41-leet/41-leet.md) | 1 h | Pass | [https://shorturl.at/hBp2J](https://shorturl.at/hBp2J)  | 64 |
 | 18 Oct 2024 | Plus One | Easy (LeetCode) | [42-leet.js](./leetcode/42-leet/42-leet.js) | [42-leet.md](./leetcode/42-leet/42-leet.md) | 1 h | Pass | [https://tinyurl.com/5fvpzev4](https://tinyurl.com/5fvpzev4)  | 65 |
 | 19 Oct 2024 | Single Number | Easy (LeetCode) | [43-leet.js](./leetcode/43-leet/43-leet.js) | [43-leet.md](./leetcode/43-leet/43-leet.md) | 1 h | Pass | [https://shorturl.at/e3qtU](https://shorturl.at/e3qtU)  | 66 |
+| 20 Oct 2024 | Merge Strings Alternately | Easy (LeetCode) | [44-leet.js](./leetcode/44-leet/44-leet.js) | [44-leet.md](./leetcode/44-leet/44-leet.md) | 20 min | Pass | [https://shorturl.at/L98HB](https://shorturl.at/L98HB)  | 67 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
