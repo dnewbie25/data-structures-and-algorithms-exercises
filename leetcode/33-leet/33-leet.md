@@ -1,4 +1,4 @@
-# 33th -- Add Two Promises
+# 33rd -- Add Two Promises
 
 
 
