@@ -86,5 +86,6 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 19 Oct 2024 | Single Number | Easy (LeetCode) | [43-leet.js](./leetcode/43-leet/43-leet.js) | [43-leet.md](./leetcode/43-leet/43-leet.md) | 1 h | Pass | [https://shorturl.at/e3qtU](https://shorturl.at/e3qtU)  | 66 |
 | 20 Oct 2024 | Merge Strings Alternately | Easy (LeetCode) | [44-leet.js](./leetcode/44-leet/44-leet.js) | [44-leet.md](./leetcode/44-leet/44-leet.md) | 20 min | Pass | [https://shorturl.at/L98HB](https://shorturl.at/L98HB)  | 67 |
 | 21 Oct 2024 | Calculator with Method Chaining | Easy (LeetCode) | [45-leet.js](./leetcode/45-leet/45-leet.js) | [45-leet.md](./leetcode/45-leet/45-leet.md) | 30 min | Pass | [https://tinyurl.com/3f52xadp](https://tinyurl.com/3f52xadp)  | 68 |
+| 22 Oct 2024 | Reverse Vowels of a String | Easy (LeetCode) | [46-leet.js](./leetcode/46-leet/46-leet.js) | [46-leet.md](./leetcode/46-leet/46-leet.md) | 20 min | Pass | [https://tinyurl.com/26mmnba3](https://tinyurl.com/26mmnba3)  | 69 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
