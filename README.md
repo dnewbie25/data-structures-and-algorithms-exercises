@@ -91,6 +91,7 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 24 Oct 2024 | Reverse Words in a String | Medium (LeetCode) | [48-leet.js](./leetcode/48-leet/48-leet.js) | [48-leet.md](./leetcode/48-leet/48-leet.md) | 15 min | Pass | [https://tinyurl.com/yc7mh8ns](https://tinyurl.com/yc7mh8ns)  | 71 |
 | 25 Oct 2024 | Is Subsequence | Easy (LeetCode) | [49-leet.js](./leetcode/49-leet/49-leet.js) | [49-leet.md](./leetcode/49-leet/49-leet.md) | 1 h 20 min | Pass | [https://shorturl.at/8DUSg](https://shorturl.at/8DUSg)  | 72 |
 | 26 Oct 2024 | Convert a Number to Hexadecimal | Easy (LeetCode) | [50-leet.js](./leetcode/50-leet/50-leet.js) | [50-leet.md](./leetcode/50-leet/50-leet.md) | 15 min | Pass | [https://shorturl.at/bnnva](https://shorturl.at/bnnva)  | 73 |
-| 27 Oct 2024 | Find the Difference of Two Arrays | Easy (LeetCode) | [51-leet.js](./leetcode/51-leet/51-leet.js) | [51-leet.md](./leetcode/51-leet/51-leet.md) | 15 min | Pass | [https://shorturl.at/bv0dx](https://shorturl.at/bv0dx)  | 74 |
+| 27 Oct 2024 | Find the Difference of Two Arrays | Easy (LeetCode) | [51-leet.js](./leetcode/51-leet/51-leet.js) | [51-leet.md](./leetcode/51-leet/51-leet.md) | 30 min | Pass | [https://shorturl.at/bv0dx](https://shorturl.at/bv0dx)  | 74 |
+| 28 Oct 2024 | Unique Number of Occurrences | Easy (LeetCode) | [52-leet.js](./leetcode/52-leet/52-leet.js) | [52-leet.md](./leetcode/52-leet/52-leet.md) | 10 min | Pass | [https://shorturl.at/qPXUi](https://shorturl.at/qPXUi)  | 75 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
