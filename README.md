@@ -93,5 +93,6 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 26 Oct 2024 | Convert a Number to Hexadecimal | Easy (LeetCode) | [50-leet.js](./leetcode/50-leet/50-leet.js) | [50-leet.md](./leetcode/50-leet/50-leet.md) | 15 min | Pass | [https://shorturl.at/bnnva](https://shorturl.at/bnnva)  | 73 |
 | 27 Oct 2024 | Find the Difference of Two Arrays | Easy (LeetCode) | [51-leet.js](./leetcode/51-leet/51-leet.js) | [51-leet.md](./leetcode/51-leet/51-leet.md) | 30 min | Pass | [https://shorturl.at/bv0dx](https://shorturl.at/bv0dx)  | 74 |
 | 28 Oct 2024 | Unique Number of Occurrences | Easy (LeetCode) | [52-leet.js](./leetcode/52-leet/52-leet.js) | [52-leet.md](./leetcode/52-leet/52-leet.md) | 10 min | Pass | [https://shorturl.at/qPXUi](https://shorturl.at/qPXUi)  | 75 |
+| 29 Oct 2024 | Roman to Integer | Easy (LeetCode) | [53-leet.js](./leetcode/53-leet/53-leet.js) | [53-leet.md](./leetcode/53-leet/53-leet.md) | 40 min | Pass | [https://shorturl.at/jS9fS](https://shorturl.at/jS9fS)  | 76 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
