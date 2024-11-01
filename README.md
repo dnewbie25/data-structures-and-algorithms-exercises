@@ -95,5 +95,6 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 28 Oct 2024 | Unique Number of Occurrences | Easy (LeetCode) | [52-leet.js](./leetcode/52-leet/52-leet.js) | [52-leet.md](./leetcode/52-leet/52-leet.md) | 10 min | Pass | [https://shorturl.at/qPXUi](https://shorturl.at/qPXUi)  | 75 |
 | 29 Oct 2024 | Roman to Integer | Easy (LeetCode) | [53-leet.js](./leetcode/53-leet/53-leet.js) | [53-leet.md](./leetcode/53-leet/53-leet.md) | 40 min | Pass | [https://shorturl.at/jS9fS](https://shorturl.at/jS9fS)  | 76 |
 | 30 Oct 2024 | Find the Highest Altitude | Easy (LeetCode) | [54-leet.js](./leetcode/54-leet/54-leet.js) | [54-leet.md](./leetcode/54-leet/54-leet.md) | 15 min | Pass | [https://shorturl.at/AmwQT](https://shorturl.at/AmwQT)  | 77 |
+| 31 Oct 2024 | Memoize | Medium (LeetCode) | [55-leet.js](./leetcode/55-leet/55-leet.js) | [55-leet.md](./leetcode/55-leet/55-leet.md) | 1 h 15 min | Pass | [https://shorturl.at/OnSa0](https://shorturl.at/OnSa0)  | 78 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
