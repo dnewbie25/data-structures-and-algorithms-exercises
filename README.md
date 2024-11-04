@@ -98,5 +98,6 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 31 Oct 2024 | Memoize | Medium (LeetCode) | [55-leet.js](./leetcode/55-leet/55-leet.js) | [55-leet.md](./leetcode/55-leet/55-leet.md) | 1 h 15 min | Pass | [https://shorturl.at/OnSa0](https://shorturl.at/OnSa0)  | 78 |
 | 1 Nov 2024 | 3Sum | Medium (LeetCode) | [56-leet.js](./leetcode/56-leet/56-leet.js) | [56-leet.md](./leetcode/56-leet/56-leet.md) | 1 h 30 min | Pass | [https://shorturl.at/CBPhR](https://shorturl.at/CBPhR)  | 79 |
 | 2 Nov 2024 | Promise Time Limit | Easy (LeetCode) | [57-leet.js](./leetcode/57-leet/57-leet.js) | [57-leet.md](./leetcode/57-leet/57-leet.md) | 1 h | Pass | [https://shorturl.at/gJzfG](https://shorturl.at/gJzfG)  | 80 |
+| 3 Nov 2024 | Cache With Time Limit | Medium (LeetCode) | [58-leet.js](./leetcode/58-leet/58-leet.js) | [58-leet.md](./leetcode/58-leet/58-leet.md) | 1 h 10 min | Pass | [https://shorturl.at/FkUzn](https://shorturl.at/FkUzn)  | 81 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
