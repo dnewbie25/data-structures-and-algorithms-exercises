@@ -1,10 +1,10 @@
-function a(strs) {
-  let hashmap = {}
-  for(const i of strs){
+function a (strs) {
+  const hashmap = {}
+  for (const i of strs) {
     const key = i.split('').sort().join('')
-    if(hashmap.hasOwnProperty(key)){
+    if (hashmap.hasOwnProperty(key)) {
       hashmap[key].push(i)
-    }else{
+    } else {
       hashmap[key] = [i]
     }
   }

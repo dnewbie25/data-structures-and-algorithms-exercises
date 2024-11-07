@@ -1,3 +1,3 @@
-var theMaximumAchievableX = function(num, t) {
-    return num + 2*t
-};
+const theMaximumAchievableX = function (num, t) {
+  return num + 2 * t
+}

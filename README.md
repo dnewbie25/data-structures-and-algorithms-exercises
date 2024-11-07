@@ -100,5 +100,7 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 2 Nov 2024 | Promise Time Limit | Easy (LeetCode) | [57-leet.js](./leetcode/57-leet/57-leet.js) | [57-leet.md](./leetcode/57-leet/57-leet.md) | 1 h | Pass | [https://shorturl.at/gJzfG](https://shorturl.at/gJzfG)  | 80 |
 | 3 Nov 2024 | Cache With Time Limit | Medium (LeetCode) | [58-leet.js](./leetcode/58-leet/58-leet.js) | [58-leet.md](./leetcode/58-leet/58-leet.md) | 1 h 10 min | Pass | [https://shorturl.at/FkUzn](https://shorturl.at/FkUzn)  | 81 |
 | 4 Nov 2024 | Confirmation Rate | Medium (LeetCode) | [59-leet.sql](./leetcode/59-leet/59-leet.sql) | [59-leet.md](./leetcode/59-leet/59-leet.md) | 50 min | Pass | [https://shorturl.at/CjLGt](https://shorturl.at/CjLGt)  | 82 |
+| 5 Nov 2024 | Merge Two Sorted Lists | Easy (LeetCode) | [60-leet.sql](./leetcode/60-leet/60-leet.sql) | [60-leet.md](./leetcode/60-leet/60-leet.md) | 30 min | Pass | [https://shorturl.at/peefb](https://shorturl.at/peefb)  | 83 |
+| 6 Nov 2024 | Valid Parentheses | Easy (LeetCode) | [61-leet.sql](./leetcode/61-leet/61-leet.sql) | [61-leet.md](./leetcode/61-leet/61-leet.md) | 30 min | Pass | [https://shorturl.at/SnLWt](https://shorturl.at/SnLWt)  | 84 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)

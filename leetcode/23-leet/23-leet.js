@@ -1,3 +1,3 @@
-var getConcatenation = function(nums) {
-    return [...nums,...nums]
-};
+const getConcatenation = function (nums) {
+  return [...nums, ...nums]
+}

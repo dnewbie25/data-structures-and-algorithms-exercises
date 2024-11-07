@@ -1,6 +1,6 @@
-var isEmpty = function (obj) {
+const isEmpty = function (obj) {
   if (Object.keys(obj).length > 0) {
-    return false;
+    return false
   }
-  return true;
-};
+  return true
+}

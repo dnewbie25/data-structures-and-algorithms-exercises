@@ -1,9 +1,9 @@
-var cancellable = function(fn, args, t) {
+const cancellable = function (fn, args, t) {
   fn(...args)
-  const interval = setInterval(()=>fn(...args),t)
+  const interval = setInterval(() => fn(...args), t)
 
-  function cancelFn(){
+  function cancelFn () {
     clearInterval(interval)
   }
   return cancelFn
-};
+}

@@ -1,10 +1,10 @@
-var reverse = function (x) {
+const reverse = function (x) {
   const min = -(2 ** 31)
   const max = 2 ** 31 - 1
   if (x > max || x < min) {
     return 0
   }
-  let str = x.toString().split('')
+  const str = x.toString().split('')
   let value = 0
   if (x < 0) {
     value = parseInt(str[0] + str.slice(1, str.length).reverse().join(''))
@@ -15,4 +15,4 @@ var reverse = function (x) {
     return 0
   }
   return value
-};
+}
