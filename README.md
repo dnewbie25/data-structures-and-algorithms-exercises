@@ -102,5 +102,6 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 4 Nov 2024 | Confirmation Rate | Medium (LeetCode) | [59-leet.sql](./leetcode/59-leet/59-leet.sql) | [59-leet.md](./leetcode/59-leet/59-leet.md) | 50 min | Pass | [https://shorturl.at/CjLGt](https://shorturl.at/CjLGt)  | 82 |
 | 5 Nov 2024 | Merge Two Sorted Lists | Easy (LeetCode) | [60-leet.sql](./leetcode/60-leet/60-leet.sql) | [60-leet.md](./leetcode/60-leet/60-leet.md) | 30 min | Pass | [https://shorturl.at/peefb](https://shorturl.at/peefb)  | 83 |
 | 6 Nov 2024 | Valid Parentheses | Easy (LeetCode) | [61-leet.sql](./leetcode/61-leet/61-leet.sql) | [61-leet.md](./leetcode/61-leet/61-leet.md) | 30 min | Pass | [https://shorturl.at/SnLWt](https://shorturl.at/SnLWt)  | 84 |
+| 17 Feb 2025 | Who likes it? | 6 Kyu | [24-kata.js](./katas/24-kata/24-kata.js) | [24-kata.md](./katas/24-kata/24-kata.md) | 10 min | Pass | [https://shorturl.at/AMN65](https://shorturl.at/AMN65)  | 85 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
