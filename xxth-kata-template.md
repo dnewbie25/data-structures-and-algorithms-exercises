@@ -4,14 +4,14 @@
 
 
 
-by *[usernameHere](https://www.codewars.com/users/username)*
+by *[dnewbie25](https://www.codewars.com/users/dnewbie25)*
 
 
 ## Task
 
 Explanation here
 
-```
+```js
 //code snippets here
 
 ```
