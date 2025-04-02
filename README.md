@@ -105,5 +105,6 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 17 Feb 2025 | Who likes it? | 6 Kyu | [24-kata.js](./katas/24-kata/24-kata.js) | [24-kata.md](./katas/24-kata/24-kata.md) | 10 min | Pass | [https://shorturl.at/AMN65](https://shorturl.at/AMN65)  | 85 |
 | 29 Mar 2025 | Exes and Ohs | 7 Kyu | [25-kata.js](./katas/25-kata/25-kata.js) | [25-kata.md](./katas/25-kata/25-kata.md) | 20 min | Pass | [https://shorturl.at/Ub7le](https://shorturl.at/Ub7le)  | 86 |
 | 31 Mar 2025 | Is this a triangle? | 7 Kyu | [26-kata.js](./katas/26-kata/26-kata.js) | [26-kata.md](./katas/26-kata/26-kata.md) | 20 min | Pass | [https://shorturl.at/DsDeU](https://shorturl.at/DsDeU)  | 87 |
+| 2 Apr 2025 | Counting Duplicates | 6 Kyu | [27-kata.js](./katas/27-kata/27-kata.js) | [27-kata.md](./katas/27-kata/27-kata.md) | 25 min | Pass | [https://shorturl.at/sBT3T](https://shorturl.at/sBT3T)  | 88 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
