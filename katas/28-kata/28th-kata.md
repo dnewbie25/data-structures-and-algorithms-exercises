@@ -98,22 +98,32 @@ function hexConverter(num) {
 ## Results
 
 ```js
-
-//hopefully good results here
-
+Time: 890ms Passed: 5Failed: 0
+Test Results:
+RGB to Hex Conversion Tests
+Fixed tests
+Random tests
+Completed in 5ms
+You have passed all of the tests! :)
 ```
 
 ## Interesting Kata solution:
-> by *[somebody](https://example.com)*
+> by *[zhenghu](https://www.codewars.com/kata/reviews/516f30207c907a79f20000e6/groups/53aab4f85f1361277b000ddf)*
 
 ```js
+function rgb(r, g, b){
+	return toHex(r)+toHex(g)+toHex(b);
+}
 
-//interesting solution here
-
+function toHex(d) {
+    if(d < 0 ) {return "00";}
+    if(d > 255 ) {return "FF";}
+    return  ("0"+(Number(d).toString(16))).slice(-2).toUpperCase()
+}
 ```
 
 ## Notes about the interesting one:
 
-Interesting kata notes here
+This one uses the same approach I thoughat at first, but I decided to built the converter myself.
 
 ---
