@@ -108,5 +108,6 @@ I choose to use both platforms because from doing research, Leetcode keeps showi
 | 2 Apr 2025 | Counting Duplicates | 6 Kyu | [27-kata.js](./katas/27-kata/27-kata.js) | [27-kata.md](./katas/27-kata/27-kata.md) | 25 min | Pass | [https://shorturl.at/sBT3T](https://shorturl.at/sBT3T)  | 88 |
 | 3 Apr 2025 | RGB To Hex Conversion | 5 Kyu | [28-kata.js](./katas/28-kata/28-kata.js) | [28-kata.md](./katas/28-kata/28-kata.md) | 1 h 5 min | Pass | [https://shorturl.at/B27ag](https://shorturl.at/B27ag)  | 89 |
 | 4 Apr 2025 | Mean Square Error | 5 Kyu | [29-kata.js](./katas/29-kata/29-kata.js) | [29-kata.md](./katas/29-kata/29-kata.md) | 10 min | Pass | [https://shorturl.at/d4r7F](https://shorturl.at/d4r7F)  | 90 |
+| 8 Apr 2025 | Extract the domain name from a URL | 5 Kyu | [30-kata.js](./katas/30-kata/30-kata.js) | [30-kata.md](./katas/30-kata/30-kata.md) | 30 min | Pass | [https://shorturl.at/1Fsky](https://shorturl.at/1Fsky)  | 91 |
 
 >Many thanks to my mentor: Daniel Trujillo (GitHub: https://github.com/danieltrujillo003)
